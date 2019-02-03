@@ -18,4 +18,4 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Der
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Cristina Yang", "Korean Goddess", "Human", 2, 2)
 
 INSERT INTO subgenres (name) VALUES ("Suspense");
-INSERT INTO subgenres (name) VALUES ("Drama");
+INSERT INTO subgenres (name) VALUES ("Drama")
