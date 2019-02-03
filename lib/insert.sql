@@ -15,4 +15,4 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Gil
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Jackson Avery", "Attractive Doc", "Human", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Medideth Grey", "The Woke Doc", "Human", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Dereck Shephard", "Over 40", "Human", 2, 2);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Cristina Yang", "", "Human", 2, 2)
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Cristina Yang", "Korean Goddess", "Human", 2, 2)
