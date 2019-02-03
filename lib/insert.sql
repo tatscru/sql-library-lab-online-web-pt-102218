@@ -1,4 +1,4 @@
-INSERT INTO series (title, author_id, subgenre_id) VALUES ("Law and Order", 1, 1);
+INSERT INTO series (title, author_id, subgenre_id) VALUES ("Law and Order: SVU", 1, 1);
 INSERT INTO series (title, author_id, subgenre_id) VALUES ("Grey's Anatomy", 2, 2);
 
 INSERT INTO books (title, year, series_id) VALUES ("The Fellowship of the Ring", 1974, 1);
