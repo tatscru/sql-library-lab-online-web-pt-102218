@@ -9,7 +9,7 @@ INSERT INTO books (title, year, series_id) VALUES ("Hospital Romance", 1998, 2);
 INSERT INTO books (title, year, series_id) VALUES ("Oh NO", 2014, 2);
 
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Ice-T", "Arnold Palmer", "Cop", 1, 1);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Hagrid", "The Gentle Giant", "Cop", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Christopher Meloni", "Tough Guy", "Cop", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("BD Wong", "Doc", "Cop", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Gilderoy Lockhart", "Me!", "Wizard", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Jackson Avery", "Attractive Doc", "Human", 2, 2);
