@@ -21,4 +21,4 @@ INSERT INTO subgenres (name) VALUES ("Suspense");
 INSERT INTO subgenres (name) VALUES ("Drama");
 
 INSERT INTO authors (name) VALUES ("Dick Wolf");
-INSERT INTO authors (name) VALUES ("J.K. Rowling");
+INSERT INTO authors (name) VALUES ("Shonda Rhimes");
