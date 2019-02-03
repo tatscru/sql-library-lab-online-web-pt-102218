@@ -13,6 +13,6 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Hag
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Fluffy", "A bit of music puts em right to sleep", "Three-Headed Dog", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Gilderoy Lockhart", "Me!", "Wizard", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Jackson Avery", "Attractive Doc", "Human", 2, 2);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Saruman", "The White Wizard", "Human", 2, 2);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Lurtz", "An Army Worthy of Mordor", "Human", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Medideth Grey", "The Woke Doc", "Human", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("", "An Army Worthy of Mordor", "Human", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Shelob", "She likes to feed", "Human", 2, 2)
