@@ -23,3 +23,21 @@ INSERT INTO subgenres (name) VALUES ("Drama");
 INSERT INTO authors (name) VALUES ("Dick Wolf");
 INSERT INTO authors (name) VALUES ("Shonda Rhimes");
 
+
+INSERT INTO character_books (character_id, book_id) VALUES (1, 2);
+INSERT INTO character_books (character_id, book_id) VALUES (1, 4);
+INSERT INTO character_books (character_id, book_id) VALUES (3, 3);
+INSERT INTO character_books (character_id, book_id) VALUES (2, 4);
+INSERT INTO character_books (character_id, book_id) VALUES (2, 1);
+INSERT INTO character_books (character_id, book_id) VALUES (3, 3);
+INSERT INTO character_books (character_id, book_id) VALUES (3, 1);
+INSERT INTO character_books (character_id, book_id) VALUES (4, 5);
+INSERT INTO character_books (character_id, book_id) VALUES (4, 1);
+INSERT INTO character_books (character_id, book_id) VALUES (5, 2);
+INSERT INTO character_books (character_id, book_id) VALUES (5, 3);
+INSERT INTO character_books (character_id, book_id) VALUES (6, 5);
+INSERT INTO character_books (character_id, book_id) VALUES (6, 6);
+INSERT INTO character_books (character_id, book_id) VALUES (7, 4);
+INSERT INTO character_books (character_id, book_id) VALUES (8, 6);
+INSERT INTO character_books (character_id, book_id) VALUES (8, 3);
+
