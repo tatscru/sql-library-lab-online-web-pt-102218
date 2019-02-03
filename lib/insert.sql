@@ -16,3 +16,6 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Jac
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Medideth Grey", "The Woke Doc", "Human", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Dereck Shephard", "Over 40", "Human", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Cristina Yang", "Korean Goddess", "Human", 2, 2)
+
+INSERT INTO subgenres (name) VALUES ("Suspense");
+INSERT INTO subgenres (name) VALUES ("Drama");
